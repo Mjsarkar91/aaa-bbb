@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is test file for conflict
+=======
+server2 file i am testing
+>>>>>>> f27ee51 (server2)
